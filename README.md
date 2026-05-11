@@ -10,8 +10,8 @@ Diagnosehilfen und interaktive Tools für den Mercedes-Benz CLK (Typ 208 / A208 
 
 | Datei | Beschreibung |
 |-------|-------------|
-| [`verdeck/n52_html.html`](verdeck/n52_html.html) | Interaktives N52 Stecker-Diagramm – alle 55 Pins mit Messwerten, umschaltbar zwischen N52-Seite und Kabelbaum-Seite |
-| [`verdeck/messliste.html`](verdeck/messliste.html) | Endschalter Messliste – Schritt-für-Schritt Checkliste aller 13 Schalter mit Sollwerten und Notizfeldern |
+| [`verdeck/n52_html.html`](verdeck/Verdeck_Steuergeraet.html) | Interaktives N52 Stecker-Diagramm – alle 55 Pins mit Messwerten, umschaltbar zwischen N52-Seite und Kabelbaum-Seite |
+| [`verdeck/messliste.html`](verdeck/Verdeck_Steuergerät_Checkliste.html) | Endschalter Messliste – Schritt-für-Schritt Checkliste aller 13 Schalter mit Sollwerten und Notizfeldern |
 
 ---
 
